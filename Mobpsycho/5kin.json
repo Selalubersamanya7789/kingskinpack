@@ -1,0 +1,189 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3254707153940847/1478794474",
+      "main_ads_intertitial":"ca-app-pub-3254707153940847/9297574749",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho30.png"
+    },
+  {
+      "id": 31,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "MobPsycho",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/kingskinpack/main/Mobpsycho/png/MobPsycho32.png"
+    }
+    
+  ]
+}
